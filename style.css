@@ -1,0 +1,21 @@
+.loginPage{
+    background: url('https://www.shutterstock.com/shutterstock/photos/2143110357/display_1500/stock-vector-visitor-management-system-kiosk-self-registration-system-access-control-and-time-attendance-2143110357.jpg');
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+
+}
+.loginForm{
+    background-color: rgba(1,32, 93, 0.6);
+    color: #fff;
+}
+.fig{
+   height: 400px;
+}
+.cls{
+    justify-content: space-around;
+}
+.btns{
+    border:2px solid rgba(1,32, 93, 0.6) ;
+    background-color: rgba(1,32, 93, 0.3);
+}
